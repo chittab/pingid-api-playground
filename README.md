@@ -2,7 +2,8 @@
 
 ### Overview
 
-Java application to test the PingID API operations. This sample application can help a developer understand the flows and the tokens involved with using the PingID API.
+Java application to test the PingID API operations. This sample application can help a developer understand the flows and the tokens involved with using the PingID API. In particular, the code can be reused to implement step-up MFA authentication for any 
+existing SSO-enabled applications.
 
 
 ### System Requirements / Dependencies
